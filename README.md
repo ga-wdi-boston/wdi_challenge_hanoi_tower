@@ -4,17 +4,19 @@
 
 ## Objectives
 
-```ruby
-    |       |       |
-    —       |       |
-   ———      |       |
-  —————     |       |
-—————————————————————————————
-```
-
 Try to move all the disks from TOWER 1 to TOWER 3.
 You may only move one disk at a time.
 You must never allow a bigger disk to go on top of a smaller disk.
+
+
+```ruby
+        |       |       |
+        —       |       |
+       ———      |       |
+      —————     |       |
+———————————————————————————————
+```
+
 
 - Objective 1
 - Objective 2
