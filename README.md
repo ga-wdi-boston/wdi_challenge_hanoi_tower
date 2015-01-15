@@ -10,11 +10,12 @@ You must never allow a bigger disk to go on top of a smaller disk.
 
 
 ```ruby
-        |       |       |
-        —       |       |
-       ———      |       |
-      —————     |       |
+      |         |         |
+      —         |         |
+     ———        |         |
+    —————       |         |
 ———————————————————————————————
+    tower 1   tower2   tower3
 ```
 
 
