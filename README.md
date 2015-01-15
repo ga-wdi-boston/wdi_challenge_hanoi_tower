@@ -15,7 +15,7 @@ You must never allow a bigger disk to go on top of a smaller disk.
      ———        |         |
     —————       |         |
 ———————————————————————————————
-    tower 1   tower2   tower3
+    tower1    tower2    tower3
 ```
 
 
