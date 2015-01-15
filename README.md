@@ -1,10 +1,20 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Assignment Name (Ruby String Lab)
+# Hanoi Tower
 
 ## Objectives
 
-By the end of this, students should be able to:
+```ruby
+    |       |       |
+    —       |       |
+   ———      |       |
+  —————     |       |
+—————————————————————————————
+```
+
+Try to move all the disks from TOWER 1 to TOWER 3.
+You may only move one disk at a time.
+You must never allow a bigger disk to go on top of a smaller disk.
 
 - Objective 1
 - Objective 2
