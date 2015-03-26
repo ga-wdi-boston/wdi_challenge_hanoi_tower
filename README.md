@@ -12,7 +12,9 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 
 With three disks, the puzzle can be solved in seven moves. The minimum number of moves required to solve a Tower of Hanoi puzzle is 2n - 1, where n is the number of disks.
 
-[Learn about the Tower of Hanoi here.](http://en.wikipedia.org/wiki/Tower_of_Hanoi)
+[Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/a/towers-of-hanoi) has an excellent resource on [Tower of Hanoi](https://www.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/a/towers-of-hanoi) which is worth going through before attempting this challenge. 
+
+[Reference on the Tower of Hanoi on the Wikipedia](http://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
 The Tower of Hanoi is a
 
